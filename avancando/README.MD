@@ -1,9 +1,17 @@
 #Avançando com PHP: Arrays, Strings, Função e Web
 
-Ao longo do treinamento, aprenderemos a trabalhar com listas de dados e informações com tipos complexos, trabalharemos com funções e separaremos nosso programa em arquivos diferentes, manipularemos listas (seja retornando valores e substituindo-os na lista original ou manipulando por referência) e conheceremos os tipos de erro que o PHP oferece.
+#Faça esse curso de PHP e:
+-Entenda os Arrays e Arrays associativos
+-Crie funções para encapsular uma lógica
+-Domine os strings e conheça a interpolação
+-Escreva o seu primeiro código na Web
+-Saiba a diferença entre passagem por valor e referência
 
-Além disso, discutiremos o papel do PHP na Web, qual o seu comportamento e o que ele precisa para funcionar nesse ambiente.
+#Aulas
 
-Ao final, teremos acesso a uma lista de correntistas, criaremos diversas contas e faremos uma série de operações nelas, como depósitos, saques, remoções e alterações de valores.
-
-Claro que os estudos não acabam por aqui, mas esse será um ótimo início. Espero que você tire proveito e ganhe ainda mais interesse em aprender essa linguagem de programação. Bons estudos e até o próximo vídeo!
+-Trabalhando com arrays Ver primeiro vídeo
+-Arrays associativos
+-Criando funções
+-Interpolação e Require
+-Referências e mais listas
+-Introdução do PHP na Web
