@@ -7,7 +7,7 @@
 - Conheça os tipos mais importantes da linguagem
 - Tome decisões no seu código e repete ações
 
-## AULAS
+## AULAS:
 
 - O que é PHP? Ver primeiro vídeo
 - Variáveis e tipos

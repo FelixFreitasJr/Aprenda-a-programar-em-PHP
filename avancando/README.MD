@@ -8,7 +8,7 @@
 - Escreva o seu primeiro código na Web
 - Saiba a diferença entre passagem por valor e referência
 
-#  Aulas
+##  Aulas:
 
 -Trabalhando com arrays Ver primeiro vídeo
 -Arrays associativos
