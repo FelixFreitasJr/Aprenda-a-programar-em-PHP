@@ -1,6 +1,6 @@
 #  Avançando com PHP: Arrays, Strings, Função e Web
 
-# # Faça esse curso de PHP e:
+## Faça esse curso de PHP e:
 
 - Entenda os Arrays e Arrays associativos
 - Crie funções para encapsular uma lógica
