@@ -1,6 +1,6 @@
-# Avançando com PHP: Arrays, Strings, Função e Web
+#  Avançando com PHP: Arrays, Strings, Função e Web
 
-## Faça esse curso de PHP e:
+# # Faça esse curso de PHP e:
 
 - Entenda os Arrays e Arrays associativos
 - Crie funções para encapsular uma lógica
@@ -8,11 +8,11 @@
 - Escreva o seu primeiro código na Web
 - Saiba a diferença entre passagem por valor e referência
 
-# Aulas
+#  Aulas
 
-- Trabalhando com arrays Ver primeiro vídeo
-- Arrays associativos
-- Criando funções
-- Interpolação e Require
-- Referências e mais listas
-- Introdução do PHP na Web
+-Trabalhando com arrays Ver primeiro vídeo
+-Arrays associativos
+-Criando funções
+-Interpolação e Require
+-Referências e mais listas
+-Introdução do PHP na Web
