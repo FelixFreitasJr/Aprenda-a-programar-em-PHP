@@ -1,6 +1,6 @@
 <?php
 
-include 'funcoes.php';
+require_once 'funcoes.php';
 
 $contaCorrentes = [
     '123.456.789-10' => [
@@ -31,6 +31,8 @@ $contaCorrentes['123.256.789-12'] = depositar(
     $contaCorrentes['123.256.789-12'],
     valorADepositar:100
 );
+
+titularComLetrasMaiusculas($contaCorrentes ['123.256.789-12']);
 
 foreach ($contaCorrentes as $cpf => $conta) {
     exibeMensagem(
